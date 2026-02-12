@@ -16,7 +16,8 @@ The code is organized into specific modules:
 * 🔄 Iteration: Deep dive into `for`, `while`, and `do-while` loops.
 * 🔢 Arrays: Operations on 1D and 2D arrays (searching, sorting).
 * ✨ Pattern Printing:A dedicated section for star and number patterns to sharpen logical thinking.
-  📦 Functions: Understanding modularity and reusability.
+**📦 Functions: Understanding modularity and reusability.
+
 
 
 # 📂 Project Structure
