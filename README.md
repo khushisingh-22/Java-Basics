@@ -34,7 +34,7 @@ Java-Basics/
 * [Java Programming - GeeksforGeeks](https://www.geeksforgeeks.org/java/)
 
 # 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/khushi-singh-8473a3306)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-singh-8473a3306)
 
 
 
