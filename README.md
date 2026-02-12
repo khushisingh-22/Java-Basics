@@ -19,11 +19,20 @@ The code is organized into specific modules:
   📦 Functions: Understanding modularity and reusability.
 
 
-📂 Project Structure
+# 📂 Project Structure
+```text
 Java-Basics/
-├── Loops/
-├── Conditional-Statements/
-├── Arrays/
-├── Patterns/
-└── Functions/
+├── 🔄 Loops/
+├── ⚖️ Conditional-Statements/
+├── 🔢 Arrays/
+├── ✨ Patterns/
+└── 📦 Functions/
+
+📚 Learning Resources
+* [Java Documentation](https://docs.oracle.com/en/java/)
+* [Java Programming - GeeksforGeeks](https://www.geeksforgeeks.org/java/)
+
+
+
+
 
